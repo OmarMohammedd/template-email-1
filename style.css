@@ -119,6 +119,15 @@ body {
   }
 
 
+  .background {
+    height: 8px;
+    width: 100%;
+    background: linear-gradient(to right, #AA2372, #000000, #AA2372);
+    margin: 2rem 0;
+  }
+  
+
+
 
   @media (max-width: 620px) {
     .top_top p {
