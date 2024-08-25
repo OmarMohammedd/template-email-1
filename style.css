@@ -48,6 +48,15 @@ body {
   font-size: 18px;
   text-align: center;
   }
+  
+  .toopp {
+    background: url("./images/11image.png");
+    background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+height: 170px;
+width: 100%;
+  }
    
 
 
@@ -130,6 +139,9 @@ body {
 
 
   @media (max-width: 620px) {
+    .toopp {
+  height: 131px;
+    }
     .top_top p {
       font-size: 16px;
     }
