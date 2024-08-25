@@ -101,6 +101,22 @@ body {
   margin: 2rem 0;
   }
 
+  .paragraph {
+    font-size: 17px;
+    font-weight: 500;
+    border-bottom: 2px solid #000;
+    padding-bottom: 2.5rem;
+  }
+  .paragraphh {
+    padding-top: 0.4rem;
+  }
+  .paragraphh .spann {
+    font-size: 17px;
+    font-weight: 600;
+  }
+  .paragraphh .spannn {
+    color: #29adef;
+  }
 
 
 
