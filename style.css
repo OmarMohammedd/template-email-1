@@ -161,13 +161,14 @@ body {
     }
     .avr .right {
       flex: 1;
+      font-size: 16px;
     }
 
     .avr .left {
-      width: 130px;
+      width: 110px;
     }
     .avr .leftt {
-      width: 100px;
+      width: 80px;
     }
 
   }
