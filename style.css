@@ -139,6 +139,12 @@ width: 100%;
 
 
   @media (max-width: 620px) {
+    .top h3 {
+      font-size: 27px;
+   }
+   .top p {
+    font-size: 16px;
+    }
     .toopp {
   height: 131px;
     }
